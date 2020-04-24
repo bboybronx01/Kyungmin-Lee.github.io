@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> MMP100 demo site </title>
+    
+    <link rel="style2sheet" type="text/css" href="style2.css">
+    
+  </head>
+  <body>
+    <h1 id ="top">
+      HIP-HOP WORLD
+    </h1>
+    <a id="upper_choice" href="wrongchoice2.html"><img src="https://live.staticflickr.com/65535/49615346916_57251ec511_b.jpg" /></a>
+    <h1>
+      Wu-Tang forever
+    </h1>
+    <img src="https://live.staticflickr.com/75/153873305_e5ef2401a5_b.jpg" alt="hiphop legned"/>
+    <p class="attribution">
+      "SSL10049" by Cagbay is licensed under CC BY 2.0
+      </p>
+    <h2>
+      we see the lengends
+    </h2>
+    <a href="rightchoice2.html"><img src="https://api.creativecommons.engineering/t/600/https://farm3.staticflickr.com/2620/4153288514_d4fc1b56c2_m.jpg" /></a>
+    <p class = "conversation">
+      and this is my job
+    </p>
+    <span class="conversation">
+      here's the webpage that you will like.
+    </span>
+    </br>
+    <a href="http://www.bboyworld.com">this is the text of the link</a>
+  </body>
+</html>
